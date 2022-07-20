@@ -1,0 +1,9 @@
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 200px;
+}
+.head button{
+    width: 50px;
+    height: 60px;
+}
